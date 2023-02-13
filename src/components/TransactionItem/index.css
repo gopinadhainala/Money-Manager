@@ -1,0 +1,19 @@
+.list-item-container {
+  list-style-type: none;
+  display: flex;
+}
+.transaction-cell {
+  width: 25%;
+  border-right: none;
+  text-align: center;
+}
+.delete-image-container {
+  padding-left: 80px;
+  padding-top: 15px;
+  border: none;
+  background-color: transparent;
+}
+.trash-icon {
+  height: 26px;
+  width: 26px;
+}
